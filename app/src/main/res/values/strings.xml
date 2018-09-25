@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">RoomShare</string>
+    <string name="county">County...</string>
+
+    <string name="google_maps_API_key">AIzaSyCeqJ2uqQKMAjR6fOQjac6v849TAQf-6ig</string>
+
+    <string-array name="roomType">
+        <item>Single</item>
+        <item>Double</item>
+        <item>Shared</item>
+    </string-array>
+
+    <string-array name="available">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="names">
+        <item>National College of Ireland (NCI)</item>
+        <item>Dublin City University (DCU)</item>
+        <item>St Patricks College</item>
+        <item>University College Dublin (UCD)</item>
+        <item>Dublin Business School</item>
+        <item>Maynooth College</item>
+        <item>Trinity College Dublin</item>
+        <item>Cork University</item>
+        <item>Dublin Institute of Techonology(DIT)</item>
+        <item>NUI Galway</item>
+        <item>University of Limerick</item>
+        <item>Royal College of Surgeons</item>
+        <item>Athlone Institute of Technology (AIT)</item>
+        <item>Athlone Institute of Technology (AIT)</item>
+        <item>Dundalk Institute of Technology (DKIT)</item>
+    </string-array>
+
+</resources>

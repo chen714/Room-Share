@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "147548944483",
+    "firebase_url": "https://roomshareapp-d4137.firebaseio.com",
+    "project_id": "roomshareapp-d4137",
+    "storage_bucket": "roomshareapp-d4137.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147548944483:android:f7402ee87c91f472",
+        "android_client_info": {
+          "package_name": "com.example.lorca.roomshareapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147548944483-repba28mqtio77o45anedgrphikncmn1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lorca.roomshareapp",
+            "certificate_hash": "b4257ce40aa94feaf8d4f411f393f85f3a72f938"
+          }
+        },
+        {
+          "client_id": "147548944483-90vns60l88hsqi67ts2bkq6hri699jk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrduuVA4B5wHp185oJtoysBnFNCvHphlc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147548944483-90vns60l88hsqi67ts2bkq6hri699jk1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
